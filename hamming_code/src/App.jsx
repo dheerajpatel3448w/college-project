@@ -2,8 +2,8 @@
 
 import { useState } from 'react'
 import './App.css'
-import HammingDeepDive from './components/hammingcodeerror'
-import DetailedHammingGenerator from './components/hummnigcode'
+import HammingDeepDive from './components/hamming_code_error'
+import DetailedHammingGenerator from './components/hammnig_code'
 import Navbar from './components/navbar'
 
 function App() {
